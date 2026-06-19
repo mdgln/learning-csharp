@@ -16,4 +16,4 @@ Phase1-Foundations/
 
 ## 👤 About
 
-Connect with me on [LinkedIn](www.linkedin.com/in/mdgln).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mdgln).
